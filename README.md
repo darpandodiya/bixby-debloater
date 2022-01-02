@@ -114,7 +114,7 @@ Let’s break them down and understand what they are doing.
 
 `--user 0` – implies that the application is being uninstalled for the current user – not system wide. Root access it needed to do system wide un-installation.
 
-This could also mean that whenever you’ll upgrade or factory reset your device, the bloatware would kick in again. The advantage being even if you uninstall a system application using this method, you can still receive official OTA updates from your carrier or OEM.  
+>This could also mean that whenever you’ll upgrade or factory reset your device, the bloatware would kick in again. The advantage being even if you uninstall a system application using this method, you can still receive official OTA updates from your carrier or OEM.  
 
 ## Bixby related packages
 Below are the packages being uninstalled using the adb commands in the bat file.
