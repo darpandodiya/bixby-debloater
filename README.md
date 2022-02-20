@@ -119,4 +119,8 @@ com.samsung.android.bixby.agent.dummy
 
 How did I list them down? Well, pretty simple, using another adb command
 
+Windows
 `adb shell pm list packages | findstr "bixby"`
+
+Unix
+`adb shell pm list packages | grep "bixby"`
